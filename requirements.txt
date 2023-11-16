@@ -78,7 +78,6 @@ soupsieve
 sqlparse
 tenacity
 threadpoolctl
-tiktoken==0.1.1
 tomli
 tqdm
 trio
