@@ -230,4 +230,4 @@ EMAIL_HOST_USER = 'necessipick@gmail.com'
 # BASE_URL = 'http://127.0.0.1:8000/' # Replace 'index' with the name of your homepage URL
 
 # brevo | nece acc
-SMTP_KEY = 'key:xsmtpsib-105615f439a9f9dbf84dac9838ec75bab0545d36acb00a8ee87577a98eba9184-S8RCXyLFGzZgAvwK
+SMTP_KEY = 'key:xsmtpsib-105615f439a9f9dbf84dac9838ec75bab0545d36acb00a8ee87577a98eba9184-S8RCXyLFGzZgAvwK'
