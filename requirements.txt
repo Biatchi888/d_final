@@ -63,7 +63,6 @@ python-dotenv
 python-Levenshtein
 python3-openid
 pytz
-pywin32
 rapidfuzz
 regex
 requests
